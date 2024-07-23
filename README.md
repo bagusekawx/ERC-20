@@ -13,10 +13,6 @@ link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 git clone https://github.com/bagusekawx/ERC-20
 ```
 
-```
-cd swisstronik-erc20-mint-token
-```
-
 ### 2. Install Dependency
 
 ```bash
